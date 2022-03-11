@@ -1,0 +1,32 @@
+ h1{
+     color:rgb(127, 255, 153);
+ }
+
+
+ *{
+     border: solid;
+ }
+
+ body{
+     background-color: rgb(128,128,128);
+ }
+ 
+ .Cabeçalho{
+     background-color: darkturquoise;
+     display: flex;
+ }
+ .grade{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+ }
+ .Rodapé{
+     background-color: darkred ;
+     display: flex;
+     flex-wrap: wrap;
+     justify-content:flex-end;
+ }
+            
+                
+            
+       
